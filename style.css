@@ -1,0 +1,67 @@
+body {
+  min-height: 2000px;
+  background-color: rgb(220, 235, 500);
+  margin-top: 50px;
+}
+.img1 {
+  width: 200px;
+  height: 250px;
+}
+
+#projects {
+  background-color: rgb(220, 235, 235);
+  margin-top: 400px;
+}
+#contact {
+  margin-top: 400px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.instagram {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.instagram-button {
+  display: inline-block;
+  padding: 10px 20px;
+  /* background-color: #d9dbe2; Warna latar belakang */
+  color: #161515; /* Warna teks */
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  margin-top: -500px;
+}
+
+.instagram-button img {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+}
+.facebook-button img {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+  margin-top: -500px;
+  margin-left: 20;
+}
+.email-button img {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+  margin-top: -500px;
+  margin-left: 20px;
+}
+.wa-button img {
+  width: 60px;
+  height: 60px;
+  margin-right: 8px;
+  margin-top: -500px;
+  margin-left: 20px;
+}
